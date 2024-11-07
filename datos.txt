@@ -1,4 +1,3 @@
 COLABORADORES:
-BETA: https://github.com/carmen-cespedes
-GAMMA: https://github.com/rodrigogorno
 carmen cespedes 172.20.10.5 Thu Oct 31 12:14:48 -03 2024
+gorno rodreigo 192.168.56.1 Thu Oct 31 12:27:20 -03 2024
